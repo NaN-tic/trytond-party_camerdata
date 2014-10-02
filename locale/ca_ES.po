@@ -1,0 +1,187 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:party.party,camerdata:"
+msgid "Camerdata"
+msgstr "Camerdata"
+
+msgctxt "field:party.party,employee_segment:"
+msgid "Employees"
+msgstr "Empleats"
+
+msgctxt "field:party.party,exports:"
+msgid "Exports?"
+msgstr "Exporta?"
+
+msgctxt "field:party.party,foundation_year:"
+msgid "Foundation Year"
+msgstr "Any constitució"
+
+msgctxt "field:party.party,imports:"
+msgid "Imports?"
+msgstr "Importa?"
+
+msgctxt "field:party.party,legal_form:"
+msgid "Legal Form"
+msgstr "Forma jurídica"
+
+msgctxt "field:party.party,offices:"
+msgid "Offices"
+msgstr "Oficines"
+
+msgctxt "field:party.party,positions:"
+msgid "Positions"
+msgstr "Càrrecs"
+
+msgctxt "field:party.party,turnover:"
+msgid "Bussines Size"
+msgstr "Volum de negoci"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 1 to 5 (Microcompany)"
+msgstr "De 1 a 5 (Microempresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 101 to 250 (Medium company)"
+msgstr "De 101 a 250 (Mitjana empresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 11 to 25 (Small company)"
+msgstr "De 11 a 25 (Petita empresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 251 to 500 (Big company)"
+msgstr "De 251 a 500 (Gran empresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 26 to 50 (Small company)"
+msgstr "De 26 a 50 (Petita empresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 51 to 100 (Medium company)"
+msgstr "De 51 a 100 (Mitjana empresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "From 6 to 10 (Microcompany)"
+msgstr "De 6 a 10 (Microempresa)"
+
+msgctxt "selection:party.party,employee_segment:"
+msgid "More than 500 (Big company)"
+msgstr "Més de 500 (Gran empresa)"
+
+msgctxt "selection:party.party,exports:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:party.party,exports:"
+msgid "No"
+msgstr "No"
+
+msgctxt "selection:party.party,exports:"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "selection:party.party,imports:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:party.party,imports:"
+msgid "No"
+msgstr "No"
+
+msgctxt "selection:party.party,imports:"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "selection:party.party,legal_form:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Association"
+msgstr "Associació"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Congregation and Religious Institution"
+msgstr "Congregació i Inst. Religiosa"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Cooperative"
+msgstr "Cooperativa"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Limited Liability Company (LLC)"
+msgstr "Societat Limitada (SL)"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Local Corporation"
+msgstr "Corporació local"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Non-resident entity in Spain"
+msgstr "Ent. no resident a Espanya"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Other not defined types"
+msgstr "Otros tipus no definits"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Public Agency"
+msgstr "Organisme públic"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Public Limited Company (PLC)"
+msgstr "Societat Anònima (SA)"
+
+msgctxt "selection:party.party,legal_form:"
+msgid "Temporary Consortium (spanish UTE)"
+msgstr "Unió Temporal d'Empreses (UTE)"
+
+msgctxt "selection:party.party,turnover:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 1.500.001 to 3.000.000"
+msgstr "De 1.500.001 a 3.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 15.000.001 to 30.000.000"
+msgstr "De 15.000.001 a 30.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 3.000.001 to 6.000.000"
+msgstr "De 3.000.001 a 6.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 30.000.001 to 60.000.000"
+msgstr "De 30.000.001 a 60.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 300.001 to 600.000"
+msgstr "De 300.001 a 600.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 6.000.001 to 15.000.000"
+msgstr "De 6.000.001 a 15.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "From 600.001 to 1.500.000"
+msgstr "De 600.001 a 1.500.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "More than 60.000.000"
+msgstr "Més de 60.000.000 €"
+
+msgctxt "selection:party.party,turnover:"
+msgid "Until 300.000"
+msgstr "Fins a 300.000 €"
+
+msgctxt "view:party.party:"
+msgid "Camerdata"
+msgstr "Camerdata"

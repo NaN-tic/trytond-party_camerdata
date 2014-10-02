@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="/tree" position="inside">
+        <field name="camerdata" tree_invisible="1"/>
+        <field name="imports" tree_invisible="1"/>
+        <field name="exports" tree_invisible="1"/>
+        <field name="employee_segment" tree_invisible="1"/>
+        <field name="turnover" tree_invisible="1"/>
+        <field name="foundation_year" tree_invisible="1"/>
+        <field name="legal_form" tree_invisible="1"/>
+        <field name="offices" tree_invisible="1"/>
+    </xpath>
+</data>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/notebook" position="inside">
+        <page string="Camerdata" id="camerdata">
+            <label name="camerdata"/>
+            <field name="camerdata"/>
+            <newline/>
+            <label name="imports"/>
+            <field name="imports"/>
+            <label name="exports"/>
+            <field name="exports"/>
+            <label name="employee_segment"/>
+            <field name="employee_segment"/>
+            <label name="turnover"/>
+            <field name="turnover"/>
+            <label name="foundation_year"/>
+            <field name="foundation_year"/>
+            <label name="legal_form"/>
+            <field name="legal_form"/>
+            <label name="offices"/>
+            <field name="offices"/>
+            <separator name="positions" colspan="4"/>
+            <field name="positions" colspan="4"/>
+        </page>
+    </xpath>
+</data>
