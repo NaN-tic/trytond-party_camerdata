@@ -4,11 +4,12 @@ from trytond.model import fields
 from trytond.pool import PoolMeta
 
 __all__ = ['Party']
-__metaclass__ = PoolMeta
 
 
 class Party:
     __name__ = 'party.party'
+    __metaclass__ = PoolMeta
+
     camerdata = fields.Boolean('Camerdata')
     imports = fields.Selection([
             (None, ''),
