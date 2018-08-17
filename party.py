@@ -6,9 +6,8 @@ from trytond.pool import PoolMeta
 __all__ = ['Party']
 
 
-class Party:
+class Party(metaclass=PoolMeta):
     __name__ = 'party.party'
-    __metaclass__ = PoolMeta
 
     camerdata = fields.Boolean('Camerdata')
     imports = fields.Selection([
